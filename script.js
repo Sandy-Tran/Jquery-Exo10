@@ -1,3 +1,3 @@
-$(document).ready(function(){
-    $("#texte_3").addClass("a_cacher");
-})
+// $(document).ready(function(){
+//     $("#texte_3").addClass("a_cacher");
+// })
